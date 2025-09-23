@@ -1,0 +1,13 @@
+name: sonar_project
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - ipykernel
+prefix: C:\Users\kakas\Anaconda3\envs\sonar_project
